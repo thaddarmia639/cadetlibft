@@ -13,7 +13,7 @@
 #include "libft.h"
 // #include <unistd.h>
 
-int	ft_strlen(const char *c)
+size_t	ft_strlen(const char *c)
 {
 	size_t	i;
 
